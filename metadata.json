@@ -1,0 +1,6 @@
+{
+  "name": "系统动力学实验室 System Dynamics Lab",
+  "description": "系统动力学全功能实验室：因果回路、存量流量、微分建模、数值仿真与AI诊断",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
